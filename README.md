@@ -1,2 +1,2 @@
 # demo
-test
+print ("hello")
